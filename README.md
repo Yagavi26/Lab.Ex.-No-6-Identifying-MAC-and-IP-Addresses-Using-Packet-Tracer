@@ -10,6 +10,8 @@ ________________________________________
 •	PCs, switches, router, hub, and wireless access point (as per given setup)<br>
 ________________________________________
 # Network Topology Diagram
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/66a6d016-0c0d-4f4a-8468-7df0dcb87e07" />
+
 # Description:
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
@@ -48,9 +50,18 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-•	PDU details for local communication<br>
-•	PDU details for remote communication<br>
-•	Tables showing MAC/IP changes through each device<br>
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd53d695-4b26-4b85-b296-7c11d0914095" />
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/3ebfeb7f-9695-4c8b-b7b2-f2bd13c7a9e4" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/43f3ecc3-a745-46ee-bbad-260a78da11f8" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/43c69071-a596-46af-ba11-8b469c2a26b2" />
+<img width="1899" height="1079" alt="image" src="https://github.com/user-attachments/assets/9782e92a-01f2-4623-87f0-ad792201978c" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/0e9d2bf0-157b-4424-bf6e-14338a42f870" />
+
+
+
+
+
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
